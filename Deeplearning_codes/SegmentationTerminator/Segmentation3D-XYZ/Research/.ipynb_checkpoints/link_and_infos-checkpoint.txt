@@ -1,0 +1,25 @@
+
+What we need for 3D:
+
+   - 1. Integer labels in 3D and 3D stardist -> Ask Floris for the data and Try Stardist 3D
+
+   - 2. skimage /scikit-image 3D watershed
+
+   - 3. Elastic Deform 3D -> Varun take care of this
+
+
+
+
+
+
+
+
+
+
+
+http://www.morphonet.org/Tutorials/MorphoNet_Tutorial3.html
+
+http://openalea.gforge.inria.fr/doc/vplants/vtissue/doc/_build/html/user/segmentation.html 
+
+An Overview of Watershed Algorithm
+Implementations in Open Source Libraries
