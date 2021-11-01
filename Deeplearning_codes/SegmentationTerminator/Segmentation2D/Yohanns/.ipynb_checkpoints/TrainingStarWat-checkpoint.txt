@@ -1,4 +1,0 @@
-
-The Segmentation training is now done thanks to SmartSeeds repository avavailable here: https://github.com/lucas-sancere/SmartSeeds which is a private Git Hub repo for now. 
-
-For Nexton Users (Curie Institute Paris BDD 4th floor computer) you can find the local repo here: /home/sancere/NextonDisk_1/UpdateLucas_codes/SmartSeeds/   
